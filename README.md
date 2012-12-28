@@ -14,4 +14,4 @@ Usage
 
 Open any page starting with [ted.com/talks][] and click 'Get video links'.
 
-  [ted.com]: http://www.ted.com/talks
+  [ted.com/talks]: http://www.ted.com/talks
