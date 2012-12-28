@@ -1,0 +1,29 @@
+{
+    "appDesc": {
+        "message": "Easy way to get TED video links. Just visit ted.com/talks page and click 'Get video links'."
+    },
+    "appName": {
+        "message": "TEDxtension: easy TED.com video downloads"
+    },
+    "tedxtensionLink": {
+        "message": "Get video links"
+    },
+    "foundedVideoLinks": {
+        "message": "Founded video links:"
+    },
+    "howToDownload": {
+        "message": "To download, right click on the link and choose 'Save link as'"
+    },
+    "quality": {
+        "message": "Quality:"
+    },
+    "lowQuality": {
+        "message": "low"
+    },
+    "stQuality": {
+        "message": "standard"
+    },
+    "hqQuality": {
+        "message": "high"
+    }
+}

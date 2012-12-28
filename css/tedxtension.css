@@ -1,0 +1,11 @@
+#tedxtensionLink {
+    border-bottom: 1px dashed;
+}
+
+#tedxtensionLink:hover {
+    text-decoration: none;
+}
+
+.downloadLink {
+    margin-left: 1em;
+}

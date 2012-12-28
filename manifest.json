@@ -1,0 +1,23 @@
+{
+    "name": "__MSG_appName__",
+    "description": "__MSG_appDesc__",
+    "version": "1.0",
+    "manifest_version": 2,
+    "default_locale": "en",
+    "icons": {
+        "128": "images/128.png",
+        "16": "images/16.png",
+        "32": "images/32.png",
+        "48": "images/48.png"
+    },
+    "content_scripts": [
+        {
+            "matches": ["http://www.ted.com/talks*"],
+            "css": ["css/tedxtension.css"],
+            "js": ["js/talks.js"]
+        }
+    ],
+    "permissions": [
+        "http://*.ted.com/*"
+    ]
+}

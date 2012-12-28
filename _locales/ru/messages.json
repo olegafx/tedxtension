@@ -1,0 +1,29 @@
+{
+    "appDesc": {
+        "message": "Простой способ получения ссылок на видео TED. Достаточно посетить страницу ted.com/talks и нажать 'Найти ссылки для скачивания'."
+    },
+    "appName": {
+        "message": "TEDxtension: простая загрузка видео с TED.com"
+    },
+    "tedxtensionLink": {
+        "message": "Найти ссылки для скачивания"
+    },
+    "foundedVideoLinks": {
+        "message": "Найденные ссылки для скачивания:"
+    },
+    "howToDownload": {
+        "message": "Чтобы сохранить файл, нажмите на ссылку правой кнопкой мыши и выберите 'Сохранить ссылку как…'"
+    },
+    "quality": {
+        "message": "Качество:"
+    },
+    "lowQuality": {
+        "message": "низкое"
+    },
+    "stQuality": {
+        "message": "стандартное"
+    },
+    "hqQuality": {
+        "message": "высокое"
+    }
+}
